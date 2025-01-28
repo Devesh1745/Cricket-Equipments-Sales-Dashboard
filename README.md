@@ -14,12 +14,12 @@ Best-Selling Product: The top category is coffee, with Barista Espresso being th
 
 ---
 ## Tools & library -
-## Microsoft Excel
+# Microsoft Excel
 
 
 
-## Data Story -
-# This dashboard was designed to support strategic discussions with higher-ups and provide a clear, data-driven understanding of store performance. The goal is to help identify opportunities for growth and cost optimization.
+# Data Story -
+#This dashboard was designed to support strategic discussions with higher-ups and provide a clear, data-driven understanding of store performance. The goal is to help identify opportunities for growth and cost optimization.
 
 # Screenshot -
 
