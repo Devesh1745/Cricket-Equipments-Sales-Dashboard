@@ -1,4 +1,4 @@
-# Coffee-Sales-Dashboard
+# Cricket-Equipments-Sales-Dashboard
 
 This dashboard presents insights to the regional manager of a coffee chain with three stores. The goal is to provide actionable insights to optimize operations across the stores.
 
