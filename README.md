@@ -25,7 +25,7 @@ The cricket equipment sales dataset reveals insights into sales performance, cus
 
 -Sales dip in February and March, signaling an opportunity for targeted campaigns during these months.
 
--Cricket Balls dominate the market, followed by Batting Gloves (13%) and Wicket Keeping Gloves (12%).
+-Cricket Balls dominate the market, followed by Batting Gloves 13% and Wicket Keeping Gloves 12%.
 
 -Helmets and other protective gear have lower sales, indicating room for improvement.
 
