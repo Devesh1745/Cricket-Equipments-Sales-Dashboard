@@ -5,7 +5,12 @@ The cricket equipment sales dataset reveals insights into sales performance, cus
 ---
 
 ## Key Highlights:
-Revenue Growth: Revenue has shown a consistent upward trend, reflecting positive business growth. Busiest Days: Mondays, Thursdays, and Fridays experience the highest footfall, aligning with the workweek trend when people are energized and prefer coffee breaks. Busiest Hours: Morning hours are the peak times, as customers frequent the coffee shops on their way to work.
+-Represents a strong sales achievement over the reporting period.
+-A solid profit figure with a profit margin of 29.8%, demonstrating effective pricing and cost management.
+-High sales volume indicating strong customer demand for cricket equipment.
+-Reflects consistent customer engagement and transaction frequency.
+-Cricket Ball leads the sales, contributing ₹38,497,474 in revenue and accounting for 50% of total quantity sold.
+-Revenue is evenly distributed across the four cities: Pune, Mumbai, Nagpur, and Bangalore, each contributing 25%.
 
 ---
 
