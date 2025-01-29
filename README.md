@@ -6,7 +6,9 @@ The cricket equipment sales dataset reveals insights into sales performance, cus
 
 ## Key Highlights:
 -Represents a strong sales achievement over the reporting period.
+
 -A solid profit figure with a profit margin of 29.8%, demonstrating effective pricing and cost management.
+
 -High sales volume indicating strong customer demand for cricket equipment.
 -Reflects consistent customer engagement and transaction frequency.
 -Cricket Ball leads the sales, contributing ₹38,497,474 in revenue and accounting for 50% of total quantity sold.
