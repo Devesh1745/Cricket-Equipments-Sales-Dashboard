@@ -1,6 +1,6 @@
 # Cricket-Equipments-Sales-Dashboard
-
-This dashboard presents insights to the regional manager of a coffee chain with three stores. The goal is to provide actionable insights to optimize operations across the stores.
+## Overview
+The cricket equipment sales dataset reveals insights into sales performance, customer preferences, and regional trends across four cities (Mumbai, Pune, Nagpur, Bangalore). over five years, the data includes details on product sales, revenue, cost, profit, and payment methods and like net profit, product performance, and customer segmentation provide a comprehensive understanding of the market.
 
 ---
 
