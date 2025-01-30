@@ -41,9 +41,9 @@ The cricket equipment sales dataset reveals insights into sales performance, cus
 
 
 
-# Data Story -
+## Data Story -
 #This dashboard was designed to support strategic discussions with higher-ups and provide a clear, data-driven understanding of store performance. The goal is to help identify opportunities for growth and cost optimization.
 
-# Screenshot -
+## Screenshot -
 
 <img src="https://github.com/Devesh1745/Cricket-Equipments-Sales-Dashboard/blob/main/Dashboard.PNG" alt="myql-logo" width="1000" height="500"/>
