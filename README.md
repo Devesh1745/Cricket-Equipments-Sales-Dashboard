@@ -1,6 +1,8 @@
 # Cricket-Equipments-Sales-Dashboard
 <img src="https://github.com/Devesh1745/Cricket-Equipments-Sales-Dashboard/blob/main/vecteezy_cricket-sport-equipments-bat-ball-gloves-on-green-lawn_11603486.jpg" alt="logo" width="800" height="500"/>
+
 ## Overview
+
 The cricket equipment sales dataset reveals insights into sales performance, customer preferences, and regional trends across four cities Mumbai, Pune, Nagpur, Bangalore. over five years, the data includes details on product sales, revenue, cost, profit, and payment methods and like net profit, product performance, and customer segmentation provide a comprehensive understanding of the market.
 
 ---
