@@ -21,9 +21,9 @@ The cricket equipment sales dataset reveals insights into sales performance, cus
 
 ## Top Insights:
 
--Sales and profits peak in November and December, likely due to cricket tournaments or holiday demand.
+-Sales and profits peak in March to may, likely due to cricket tournaments or holiday demand.
 
--Sales dip in February and March, signaling an opportunity for targeted campaigns during these months.
+-Sales dip in February and June, signaling an opportunity for targeted campaigns during these months.
 
 -Cricket Balls dominate the market, followed by Batting Gloves 13% and Wicket Keeping Gloves 12%.
 
