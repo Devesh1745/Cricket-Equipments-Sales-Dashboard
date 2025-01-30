@@ -44,13 +44,11 @@ The cricket equipment sales dataset reveals insights into sales performance, cus
 ## Data Story -
 #The cricket equipment sales dashboard offers a compelling story of business growth and market trends from 2018 to 2022. With a total revenue of The cricket equipment sales dashboard offers a compelling story of business growth and market trends from 2018 to 2022. With a total revenue of ₹48cr and a net profit of ₹14.30cr, the business achieved a strong profit margin of 29.8%. Cricket balls dominate the sales landscape, Almost for 50% of total quantity sold and contributing ₹19.14cr to revenue, reflecting their essential role for both amateur players and professionals.
 
-Sales are evenly distributed across key cities—Mumbai, Pune, Bangalore, and Nagpur—each contributing 25% to revenue, showcasing a well-balanced market presence. Seasonal trends reveal a sales peak in November and December, likely driven by year-end cricket tournaments and increased demand during this period. However, the quieter months of February and March highlight opportunities for growth through targeted campaigns.
-
-Key opportunities include promoting underperforming products like helmets and wicket-keeping gloves, launching off-season discounts, and leveraging the success of cricket balls to introduce complementary products. By aligning marketing strategies with customer preferences and seasonal demand, this data provides actionable insights to drive future growth and strengthen market position in the cricket equipment industry. and a net profit of ₹14.30cr, the business achieved a strong profit margin of 29.8%. Cricket balls dominate the sales landscape, accounting for 50% of total quantity sold and contributing ₹38.5 million to revenue, reflecting their essential role for both amateur players and professionals.
-
 Sales are evenly distributed across key cities—Mumbai, Pune, Bangalore, and Nagpur—each contributing 25% to revenue, showcasing a well-balanced market presence. Seasonal trends reveal a sales peak in November and December, likely driven by year-end cricket tournaments and increased demand during this period.
 
-Key opportunities include promoting underperforming products like helmets and wicket-keeping gloves, launching off-season discounts, and leveraging the success of cricket balls to introduce complementary products. By aligning marketing strategies with customer preferences and seasonal demand, this data provides actionable insights to drive future growth and strengthen market position in the cricket equipment industry.
+Key opportunities include promoting underperforming products like helmets and wicket-keeping gloves, launching off-season discounts, and leveraging the success of cricket balls to introduce complementary products. By aligning marketing strategies with customer preferences and seasonal demand, this data provides actionable insights to drive future growth and strengthen market position in the cricket equipment industry. and a net profit of ₹14.30cr, the business achieved a strong profit margin of 29.8%. Cricket balls dominate the sales landscape, accounting for 50% of total quantity sold.
+
+
 
 ## Screenshot -
 
